@@ -1,5 +1,9 @@
+
 # socialEngineeringAttack
- A script which will generate a file containing possible passwords generated from a social Engineering method
+
+[![Arvind Krishna](https://img.shields.io/badge/AK-Made%20by%20AK-success)](https://github.com/ArvindAROO/)
+
+A script which will generate a file containing possible passwords generated from a social Engineering method
 
 ! DISCLAIMER - The author or any other related party is not responsible for the lossses incurred
 
@@ -14,3 +18,5 @@ Only requires python3.6+
 Run using `python socialEngineering.py` command
 
 Report any issues or fork and provide a pull request
+This is an example of the generated file, the image size can be handled from A4 to A3
+![example](https://github.com/ArvindAROO/socialEngineeringAttack/blob/master/example.png)

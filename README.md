@@ -18,5 +18,8 @@ Only requires python3.6+
 Run using `python socialEngineering.py` command
 
 Report any issues or fork and provide a pull request
-This is an example of the generated file, the image size can be handled from A4 to A3
+
+This is an example of the generated file
 ![example](https://github.com/ArvindAROO/socialEngineeringAttack/blob/master/example.png)
+
+The example output is given in the file 'possiblePasswords.txt'

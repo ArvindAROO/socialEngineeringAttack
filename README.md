@@ -23,3 +23,13 @@ This is an example of the generated file
 ![example](https://github.com/ArvindAROO/socialEngineeringAttack/blob/master/example.png)
 
 The example output is given in the file 'possiblePasswords.txt'
+
+
+# Pull request
+A secure password generator has been added to the repository which lets you build a strong password based on the 
+length of the password you choose.
+
+Hope you like the program 
+
+Cheers!
+Happy progrmming!!

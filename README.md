@@ -25,8 +25,8 @@ This is an example of the generated file
 The example output is given in the file 'possiblePasswords.txt'
 
 
-# Pull request
-A secure password generator has been added to the repository which lets you build a strong password based on the 
+# Secure password generator
+A secure password generator(securePasswordGenerator.py) has been added to the repository which lets you build a strong password based on the 
 length of the password you choose.
 
 Hope you like the program 
